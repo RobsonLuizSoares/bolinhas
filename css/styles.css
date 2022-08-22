@@ -58,7 +58,7 @@ body {
 
 .call p {
 	font-family: 'Assistant', sans-serif;
-	color: #ff5b00;
+	color: #f8f8f8;
 	font-size: 32px;
 	text-align: justify;
 	padding-left: 10%;
@@ -101,7 +101,7 @@ body {
 	font-size: 30px;
 	width: 35%;
 	font-family: 'Assistant', sans-serif;
-	color: #ff5b00;
+	color: #ffffff;
 	line-height: 40px;
 	padding-top: 5%;
 }
@@ -126,7 +126,7 @@ body {
 	display: none;
 }
 .qrcode-price {
-	color: antiquewhite;
+	color: rgb(251, 251, 251);
 	font-family: 'Assistant', sans-serif;
 	font-size: 2rem;
 }
@@ -134,14 +134,14 @@ body {
 .qrcode-link a {
 	text-decoration: none;
 	font-size: 1.5rem;
-	color: antiquewhite;
+	color: rgb(255, 255, 255);
 	font-family: 'Assistant', sans-serif;
 }
 
 .description {
 	padding-left: 10%;
 	font-family: 'Assistant', sans-serif;
-	color: #ff5b00;
+	color: #ffffff;
 	font-size: 25px;
 }
 
@@ -156,7 +156,7 @@ body {
 
 .bottom-content {
 	font-family: 'Assistant', sans-serif;
-	color: #ff5b00;
+	color: #fbfbfb;
 	padding-left: 10%;
 	font-size: 30px;
 	line-height: 45px;
@@ -171,7 +171,7 @@ footer {
 footer p {
 	text-align: center;
 	font-size: 30px;
-	color: #ffee63;
+	color: #fcfcfc;
 	font-family: 'Assistant', sans-serif;
 	padding-top: 50px;
 }
@@ -187,12 +187,12 @@ footer p {
 	.boxTop {
 		display: flex;
 		flex-direction: column;
-		background-color: rgb(204, 93, 76);
+		background-color: #f2e8d9;
 		width: 100%;
 	}
 
 	.text-Top {
-		background-color: #c36c02;
+		background-color: #b69c86;
 		margin-left: 0;
 		align-items: center;
 		width: 100%;
@@ -201,6 +201,7 @@ footer p {
 	.text-Top h1 {
 		width: 100%;
 		font-size: 2.5rem;
+		color: #ffffff;
 	}
 
 	.img-Top {
@@ -223,7 +224,7 @@ footer p {
 
 	.call p {
 		font-family: 'Assistant', sans-serif;
-		color: #ff5b00;
+		color: #fff;
 		font-size: 20px;
 		text-align: left;
 		padding-left: 10%;
@@ -265,7 +266,7 @@ footer p {
 		font-size: 22px;
 		width: 100%;
 		font-family: 'Assistant', sans-serif;
-		color: #ff5b00;
+		color: #fff;
 		line-height: 28px;
 		margin-top: 3%;
 		/* padding-left: 10%; */
@@ -294,7 +295,7 @@ footer p {
 		/* background-color: yellow; */
 	}
 	.qrcode-price {
-		color: antiquewhite;
+		color: #fff;
 		font-family: 'Assistant', sans-serif;
 		font-size: 1.5rem;
 	}
@@ -302,14 +303,14 @@ footer p {
 	.qrcode-link a {
 		text-decoration: none;
 		font-size: 1.5rem;
-		color: antiquewhite;
+		color: #fff;
 		font-family: 'Assistant', sans-serif;
 	}
 
 	.description {
 		padding-left: 5%;
 		font-family: 'Assistant', sans-serif;
-		color: #ff5b00;
+		color: #fff;
 		font-size: 1.3rem;
 		margin-top: 5%;
 		letter-spacing: 1.2px;
@@ -321,14 +322,14 @@ footer p {
 		font-weight: 700;
 		padding-left: 10%;
 		font-family: 'Assistant', sans-serif;
-		color: #ff5b00;
+		color: #fff;
 		font-size: 1.3rem;
 		letter-spacing: 1.2px;
 	}
 
 	.bottom-content {
 		font-family: 'Assistant', sans-serif;
-		color: #ff5b00;
+		color: #fff;
 		font-size: 17px;
 		line-height: 20px;
 		margin-top: 5%;
@@ -342,6 +343,7 @@ footer p {
 		font-size: 1.3rem;
 		letter-spacing: 1.1px;
 		line-height: 20px;
+		text-align: center;
 	}
 
 	footer {
